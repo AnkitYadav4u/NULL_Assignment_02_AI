@@ -1,0 +1,21 @@
+2026-10-30 11:55:08,360 INFO     using search: greedy_best_first_search
+2026-10-30 11:55:08,360 INFO     using heuristic: hFFHeuristic
+2026-10-30 11:55:08,360 INFO     Parsing Domain /home/utkarsh/AI_LAB/AI_Group_Assignment/problem 2/Domain.pddl
+2026-10-30 11:55:08,360 INFO     Parsing Problem /home/utkarsh/AI_LAB/AI_Group_Assignment/problem 2/Problem.pddl
+2026-10-30 11:55:08,361 INFO     11 Predicates parsed
+2026-10-30 11:55:08,361 INFO     5 Actions parsed
+2026-10-30 11:55:08,361 INFO     16 Objects parsed
+2026-10-30 11:55:08,361 INFO     0 Constants parsed
+2026-10-30 11:55:08,361 INFO     Grounding start: mars-sample-original
+2026-10-30 11:55:08,362 INFO     Relevance analysis removed 0 facts
+2026-10-30 11:55:08,362 INFO     Grounding end: mars-sample-original
+2026-10-30 11:55:08,362 INFO     67 Variables created
+2026-10-30 11:55:08,362 INFO     102 Operators created
+2026-10-30 11:55:08,363 INFO     Search start: mars-sample-original
+2026-10-30 11:55:08,363 INFO     Initial h value: 17.000000
+2026-10-30 11:55:08,367 INFO     Goal reached. Start extraction of solution.
+2026-10-30 11:55:08,367 INFO     46 Nodes expanded
+2026-10-30 11:55:08,367 INFO     Search end: mars-sample-original
+2026-10-30 11:55:08,367 INFO     Search time: 0.0042
+2026-10-30 11:55:08,367 INFO     Plan length: 32
+2026-10-30 11:55:08,367 INFO     validate could not be found on the PATH so the plan can not be validated.

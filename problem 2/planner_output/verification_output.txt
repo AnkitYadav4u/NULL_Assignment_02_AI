@@ -1,0 +1,4 @@
+original_gbf.soln: VERIFIED — 32 actions; all rocks at Base=['rock1', 'rock2', 'rock3', 'rock4', 'rock5']; bays empty={'bay1': None, 'bay2': None}; rover=base
+original_astar.soln: VERIFIED — 25 actions; all rocks at Base=['rock1', 'rock2', 'rock3', 'rock4', 'rock5']; bays empty={'bay1': None, 'bay2': None}; rover=base
+extended_gbf.soln: VERIFIED — 40 actions; all rocks at Base=['rock1', 'rock2', 'rock3', 'rock4', 'rock5', 'rock6', 'rock7']; bays empty={'bay1': None, 'bay2': None}; rover=base
+extended_astar.soln: VERIFIED — 40 actions; all rocks at Base=['rock1', 'rock2', 'rock3', 'rock4', 'rock5', 'rock6', 'rock7']; bays empty={'bay1': None, 'bay2': None}; rover=base

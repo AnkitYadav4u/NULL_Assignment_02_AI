@@ -1,0 +1,4 @@
+Samples,Weather_Hot_pct,Weather_Mild_pct,Weather_Cold_pct,count_Hot_High,count_Hot_Low,count_Mild_High,count_Mild_Low,count_Cold_High,count_Cold_Low
+500,50.4,32.4,17.2,140,112,85,77,43,43
+5000,49.4,29.76,20.84,1375,1095,786,702,580,462
+20000,50.53,29.715,19.755,5572,4534,3333,2610,2187,1764

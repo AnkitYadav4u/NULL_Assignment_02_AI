@@ -1,0 +1,8 @@
+AC CPT comparison for n=20000
+Weather | Occupancy | Expert On | MLE On | BDeu On
+Hot | High | 0.900000 | 0.900933 | 0.900813
+Hot | Low | 0.600000 | 0.593295 | 0.593261
+Mild | High | 0.400000 | 0.393639 | 0.393693
+Mild | Low | 0.150000 | 0.156705 | 0.156924
+Cold | High | 0.100000 | 0.095565 | 0.095873
+Cold | Low | 0.050000 | 0.054422 | 0.054842

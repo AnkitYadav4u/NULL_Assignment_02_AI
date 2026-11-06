@@ -1,0 +1,21 @@
+2026-10-30 11:56:59,997 INFO     using search: greedy_best_first_search
+2026-10-30 11:56:59,998 INFO     using heuristic: hFFHeuristic
+2026-10-30 11:56:59,998 INFO     Parsing Domain /home/utkarsh/AI_LAB/AI_Group_Assignment/problem 2/Domain.pddl
+2026-10-30 11:56:59,998 INFO     Parsing Problem /home/utkarsh/AI_LAB/AI_Group_Assignment/problem 2/Problem_extended.pddl
+2026-10-30 11:56:59,998 INFO     11 Predicates parsed
+2026-10-30 11:56:59,998 INFO     5 Actions parsed
+2026-10-30 11:56:59,998 INFO     18 Objects parsed
+2026-10-30 11:56:59,998 INFO     0 Constants parsed
+2026-10-30 11:56:59,998 INFO     Grounding start: mars-sample-dust-storm
+2026-10-30 11:57:00,000 INFO     Relevance analysis removed 0 facts
+2026-10-30 11:57:00,000 INFO     Grounding end: mars-sample-dust-storm
+2026-10-30 11:57:00,000 INFO     87 Variables created
+2026-10-30 11:57:00,000 INFO     132 Operators created
+2026-10-30 11:57:00,001 INFO     Search start: mars-sample-dust-storm
+2026-10-30 11:57:00,001 INFO     Initial h value: 21.000000
+2026-10-30 11:57:00,006 INFO     Goal reached. Start extraction of solution.
+2026-10-30 11:57:00,006 INFO     51 Nodes expanded
+2026-10-30 11:57:00,006 INFO     Search end: mars-sample-dust-storm
+2026-10-30 11:57:00,006 INFO     Search time: 0.0056
+2026-10-30 11:57:00,006 INFO     Plan length: 40
+2026-10-30 11:57:00,007 INFO     validate could not be found on the PATH so the plan can not be validated.
